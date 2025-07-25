@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="180px" alt="Alex Kidd animado" />
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="180px" alt="Bob-sponja" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 
 ### 📫 Contato
 <p align="center">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:levipaivva@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/levi-paiva-93755019b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
