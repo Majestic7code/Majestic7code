@@ -12,7 +12,6 @@
 
 ### 🧠 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🚀 Apaixonado por desenvolvimento web  
 - 🧱 Explorando o universo do frontend e backend  
 - 🌱 Atualmente aprendendo **JavaScript**, **TypeScript**, **Node.js**, **React**
 
