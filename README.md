@@ -9,7 +9,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🚀 Em busca de aprimorar minhas habilidades em programação web  
 - 🧩 Curioso por backend, frontend, APIs e automações
-- 🌱 Atualmente aprendendo **Node.js**, **Express**, **MongoDB**, **React** e muito mais
+- 🌱 Atualmente aprendendo **Node.js**, **Express**, **React** e muito mais
 
 ---
 
