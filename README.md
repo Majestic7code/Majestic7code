@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  🎮 Powered by café, código e nostalgia 𓂀 | ✨ Feito por <strong>Majestic7code</strong>
+  Feito por <strong>Majestic7code</strong>
 </p>
