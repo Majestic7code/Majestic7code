@@ -31,15 +31,11 @@
 
 ---
 
-### 📊 Linguagens mais usadas
+### 📊 Linguagens mais usadas e 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic7code&layout=compact&theme=tokyonight&hide_border=true" alt="Top linguagens" />
 </p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Majestic7code&show_icons=true&theme=tokyonight&hide_border=true" />
