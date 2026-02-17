@@ -13,7 +13,7 @@
 ### 🧠 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🧱 Explorando o universo do frontend e backend  
-- 🌱 Atualmente aprendendo **JavaScript**, **Python**,
+- 🌱 Atualmente aprendendo **JavaScript**, **Python**,**FastAPI**
 
 ---
 
